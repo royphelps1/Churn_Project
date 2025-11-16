@@ -6,6 +6,4 @@
 
 # Local learning copies
 *annotated.ipynb
-
-# (optional) If you ever have big real data, ignore those here
-# data/raw/*
+*walkthrough*.md

@@ -1,0 +1,16 @@
+employee_id,first_name,last_name,gender,birth_date,hire_date,termination_date,termination_reason,department_id,location,job_family,is_rehire
+1001,Alice,Nguyen,F,1988-03-15,2019-01-10,,,HR,HQ,HR Generalist,False
+1002,Brian,Lopez,M,1990-07-22,2020-05-01,2023-02-15,Voluntary - New Job,ENG,HQ,Data Engineer,False
+1003,Chloe,Davis,F,1985-11-02,2018-09-17,,,FIN,HQ,Financial Analyst,False
+1004,Derrick,Moore,M,1993-01-30,2021-03-05,2022-12-01,Involuntary - Performance,OPS,Plant A,Line Operator,False
+1005,Elena,Rossi,F,1992-06-11,2021-11-20,,,OPS,Plant A,Line Operator,False
+1006,Frank,Wong,M,1984-04-09,2017-08-01,,,ENG,HQ,Senior Data Engineer,False
+1007,Grace,Kim,F,1995-02-18,2022-01-10,,,HR,HQ,HR Coordinator,False
+1008,Hector,Ruiz,M,1987-09-29,2020-02-14,2024-01-31,Voluntary - Relocation,ENG,Remote - West,Analytics Engineer,False
+1009,Isabel,Brown,F,1991-12-06,2019-10-01,,,FIN,HQ,Senior Analyst,False
+1010,Jared,Patel,M,1989-05-23,2023-04-03,,,OPS,Plant B,Supervisor,False
+1011,Kara,Singh,F,1994-08-19,2022-09-12,2024-03-15,Voluntary - School,ENG,HQ,Data Analyst,False
+1012,Liam,O'Neil,M,1986-10-10,2016-06-20,,,IT,HQ,Systems Admin,False
+1013,Mia,Garcia,F,1993-03-03,2024-02-01,,,ENG,HQ,ML Engineer,False
+1014,Noah,Hughes,M,1992-01-27,2018-01-15,2021-07-31,Involuntary - RIF,OPS,Plant B,Line Operator,False
+1015,Olivia,Young,F,1996-09-09,2024-05-20,,,HR,HQ,HR Data Specialist,False

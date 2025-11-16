@@ -1,0 +1,141 @@
+{
+  "source_system": "WorkforceHR",
+  "extracted_at": "2025-11-16T19:12:55.944666Z",
+  "employees": [
+    {
+      "employee_id": 1001,
+      "first_name": "Alice",
+      "last_name": "Nguyen",
+      "hire_date": "2019-01-10",
+      "termination_date": null,
+      "department_id": "HR",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1002,
+      "first_name": "Brian",
+      "last_name": "Lopez",
+      "hire_date": "2020-05-01",
+      "termination_date": "2023-02-15",
+      "department_id": "ENG",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1003,
+      "first_name": "Chloe",
+      "last_name": "Davis",
+      "hire_date": "2018-09-17",
+      "termination_date": null,
+      "department_id": "FIN",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1004,
+      "first_name": "Derrick",
+      "last_name": "Moore",
+      "hire_date": "2021-03-05",
+      "termination_date": "2022-12-01",
+      "department_id": "OPS",
+      "location": "Plant A"
+    },
+    {
+      "employee_id": 1005,
+      "first_name": "Elena",
+      "last_name": "Rossi",
+      "hire_date": "2021-11-20",
+      "termination_date": null,
+      "department_id": "OPS",
+      "location": "Plant A"
+    },
+    {
+      "employee_id": 1006,
+      "first_name": "Frank",
+      "last_name": "Wong",
+      "hire_date": "2017-08-01",
+      "termination_date": null,
+      "department_id": "ENG",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1007,
+      "first_name": "Grace",
+      "last_name": "Kim",
+      "hire_date": "2022-01-10",
+      "termination_date": null,
+      "department_id": "HR",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1008,
+      "first_name": "Hector",
+      "last_name": "Ruiz",
+      "hire_date": "2020-02-14",
+      "termination_date": "2024-01-31",
+      "department_id": "ENG",
+      "location": "Remote - West"
+    },
+    {
+      "employee_id": 1009,
+      "first_name": "Isabel",
+      "last_name": "Brown",
+      "hire_date": "2019-10-01",
+      "termination_date": null,
+      "department_id": "FIN",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1010,
+      "first_name": "Jared",
+      "last_name": "Patel",
+      "hire_date": "2023-04-03",
+      "termination_date": null,
+      "department_id": "OPS",
+      "location": "Plant B"
+    },
+    {
+      "employee_id": 1011,
+      "first_name": "Kara",
+      "last_name": "Singh",
+      "hire_date": "2022-09-12",
+      "termination_date": "2024-03-15",
+      "department_id": "ENG",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1012,
+      "first_name": "Liam",
+      "last_name": "O'Neil",
+      "hire_date": "2016-06-20",
+      "termination_date": null,
+      "department_id": "IT",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1013,
+      "first_name": "Mia",
+      "last_name": "Garcia",
+      "hire_date": "2024-02-01",
+      "termination_date": null,
+      "department_id": "ENG",
+      "location": "HQ"
+    },
+    {
+      "employee_id": 1014,
+      "first_name": "Noah",
+      "last_name": "Hughes",
+      "hire_date": "2018-01-15",
+      "termination_date": "2021-07-31",
+      "department_id": "OPS",
+      "location": "Plant B"
+    },
+    {
+      "employee_id": 1015,
+      "first_name": "Olivia",
+      "last_name": "Young",
+      "hire_date": "2024-05-20",
+      "termination_date": null,
+      "department_id": "HR",
+      "location": "HQ"
+    }
+  ]
+}

@@ -46,6 +46,17 @@ The repository demonstrates the core data-engineering and analytics steps a Peop
 
 ##  Repository Structure
 
+---
+
+## Tech Stack
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebooks
+- CSV + JSON HRIS-style data files
+
+---
+
 ```text
 Churn_Project/
 ├── data/

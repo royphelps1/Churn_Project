@@ -4,14 +4,47 @@ This project simulates a small People Analytics / HR churn pipeline using synthe
 
 ---
 
-## 💼 Business Question
+##  Business Question
 
 > “How is employee churn trending over time by department, and how long do employees typically stay before leaving?”
 The repository demonstrates the core data-engineering and analytics steps a People Analytics Specialist might perform using systems such as Workday, Workforce HR, or SAP SuccessFactors.
 
 ---
 
-## 📂 Repository Structure
+## Data Pipeline
+                ┌────────────────────────┐
+                │   Raw HR Data (CSV)    │
+                │ employees / status /   │
+                │ departments / metadata │
+                └───────────┬────────────┘
+                            │
+                            ▼
+               ┌──────────────────────────┐
+               │   01_data_ingest.ipynb   │
+               │ - Clean & merge datasets │
+               │ - Extract latest status  │
+               │ - Compute tenure         │
+               │ - Build master table     │
+               │ - Generate churn metrics │
+               └───────────┬──────────────┘
+                           │
+                           ▼
+              ┌────────────────────────────┐
+              │   02_churn_analysis.ipynb  │
+              │ - Monthly churn trend      │
+              │ - Hires vs terminations    │
+              │ - Tenure distribution      │
+              │ - Dept-level insights      │
+              └───────────┬────────────────┘
+                          │
+                          ▼
+                ┌──────────────────────────┐
+                │ HR Insights / Reporting  │
+                │ Tableau / Power BI / ML  │
+                └──────────────────────────┘
+
+
+##  Repository Structure
 
 ```text
 Churn_Project/
